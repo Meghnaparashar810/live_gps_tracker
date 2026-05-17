@@ -140,15 +140,7 @@ This project uses:
 
 ---
 
-# 📸 Screenshots
 
-Add your project screenshots here.
-
-```bash
-screenshots/home.png
-```
-
----
 
 # 📦 Future Improvements
 
